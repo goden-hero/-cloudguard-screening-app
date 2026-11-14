@@ -1,0 +1,12 @@
+{
+  "title": "CloudGuard — Scene Screening",
+  "language": "en",
+  "description": "Screen Sentinel-2 scenes for cloud and shadow contamination, review usable-area estimates, and export masks and reports for GIS analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
